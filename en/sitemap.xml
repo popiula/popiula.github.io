@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/en/blog/blog-photos-on-phone/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/installation/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/the-nourish-box-august/</loc>
+    <lastmod>2018-07-08T12:20:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/this-show-has-divided/</loc>
+    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/why-you-need-a-statement-bag-this-season/</loc>
+    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/are-you-doing-the-right-way/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/are-you-doing-the-right-way/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/something-i-need-to-tell-you/</loc>
+    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/ten-things-about-business/</loc>
+    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/contact/</loc>
+    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/portfolio/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/service/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/about/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+</urlset>
