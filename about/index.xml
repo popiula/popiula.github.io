@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Hugo on Hugo Future Imperfect Slim</title>
-    <link>https://popiula.github.io/about/</link>
-    <description>Recent content in About Hugo on Hugo Future Imperfect Slim</description>
+    <title>About on popiula</title>
+    <link>/about/</link>
+    <description>Recent content in About on popiula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://popiula.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>À propos de Hugo</title>
+      <link>/about/_index.fr/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/_index.fr/</guid>
+      <description>Hugo est un moteur de site statique écrit en Go.
+Il utilise une variété de projets open source, notamment:
+ Cobra Viper J Walter Weatherman Cast  En savoir plus et contribuer sur GitHub.
+Installer Quelques faits amusants sur Hugo:
+ Construit en Go Librement inspiré par Jekyll Principalement développé par spf13 dans le train lors d&amp;rsquo;un trajet aller-retour pour Manhattan. Codé dans Vim en utilisant spf13-vim  Vous avez des questions ou des suggestions?</description>
+    </item>
     
   </channel>
 </rss>
