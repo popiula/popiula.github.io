@@ -1,77 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ezhil</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Ezhil</description>
+    <title>Tags on Hugo Future Imperfect Slim</title>
+    <link>https://popiula.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 12:13:32 +0530</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://popiula.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Procrastinating</title>
-      <link>/tags/procrastinating/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
-      
-      <guid>/tags/procrastinating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space</title>
-      <link>/tags/space/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
-      
-      <guid>/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Primer</title>
-      <link>/tags/primer/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>/tags/primer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>todo</title>
-      <link>/tags/todo/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>/tags/todo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://popiula.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://popiula.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://popiula.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://popiula.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://popiula.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://popiula.github.io/tags/regression/</guid>
       <description></description>
     </item>
     

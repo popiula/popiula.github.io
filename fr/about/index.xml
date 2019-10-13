@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A propos de nous ... on FRANCAIS Example site multi-language</title>
-    <link>/fr/about/</link>
-    <description>Recent content in A propos de nous ... on FRANCAIS Example site multi-language</description>
+    <title>À propos de Hugo on Hugo Future Imperfect Slim en français</title>
+    <link>https://popiula.github.io/fr/about/</link>
+    <description>Recent content in À propos de Hugo on Hugo Future Imperfect Slim en français</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
+    <language>fr</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fr/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://popiula.github.io/fr/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

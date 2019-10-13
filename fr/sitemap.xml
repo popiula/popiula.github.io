@@ -3,135 +3,335 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/blog/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/blog/"
+                href="https://popiula.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/"
+                href="https://popiula.github.io/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/categories/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/blog/are-you-doing-the-right-way/"
+                href="https://popiula.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/are-you-doing-the-right-way/"
+                href="https://popiula.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://popiula.github.io/blog/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/blog/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/blog/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://popiula.github.io/fr/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>/fr/contact/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="https://popiula.github.io/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/contact/"
+                href="https://popiula.github.io/fr/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/fr/portfolio/</loc>
-    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/portfolio/"
+                href="https://popiula.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/"
+                href="https://popiula.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/service/</loc>
-    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/service/"
+                href="https://popiula.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/service/"
+                href="https://popiula.github.io/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>/fr/about/</loc>
-    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <loc>https://popiula.github.io/fr/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://popiula.github.io/blog/goisforlovers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/blog/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/about/"
+                href="https://popiula.github.io/fr/blog/goisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>https://popiula.github.io/fr/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://popiula.github.io/blog/hugoisforlovers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/blog/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://popiula.github.io/fr/blog/hugoisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>https://popiula.github.io/fr/categories/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://popiula.github.io/categories/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/categories/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://popiula.github.io/fr/categories/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/fr/categories/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://popiula.github.io/categories/jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/categories/jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://popiula.github.io/fr/categories/jekyll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/fr/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://popiula.github.io/blog/migrate-from-jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/blog/migrate-from-jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://popiula.github.io/fr/blog/migrate-from-jekyll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://popiula.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://popiula.github.io/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://popiula.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://popiula.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://popiula.github.io/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://popiula.github.io/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://popiula.github.io/fr/tags/"
                 />
   </url>
   
