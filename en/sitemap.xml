@@ -184,10 +184,16 @@
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/_index.de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
   </url>
   
 </urlset>
