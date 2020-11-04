@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://popiula.github.io/categories/</loc>
+    <loc>https://popiula.github.io/posts/en/20201103_mi_primer_post/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://popiula.github.io/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/posts/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/posts/en/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://popiula.github.io/categories/</loc>
   </url>
   
   <url>
