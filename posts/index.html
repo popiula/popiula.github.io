@@ -71,6 +71,26 @@ if (!doNotTrack) {
     <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
       
+        
+
+  
+
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <img class="flag" src="https://www.countryflags.io/gb/flat/16.png">
+      English
+    </a>
+    <div class="dropdown-menu" aria-labelledby="languageSelector">
+      
+        <a class="dropdown-item nav-link languages-item" href="/es/posts">
+          <img class="flag" src="https://www.countryflags.io/es/flat/24.png">
+          Spanish
+        </a>
+      
+    </div>
+</li>
+      
       </ul>
     </div>
   </div>
@@ -104,7 +124,7 @@ if (!doNotTrack) {
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="">writing-post-category</a>
+      <i class="fas fa-plus-circle"></i><a class="" href="/posts/category/">Category</a>
       
       <ul class="">
         
@@ -114,12 +134,46 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/posts/en/20201103_mi_primer_post/">Creating Category</a></li>
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/posts/category/sub-category/">Sub-Category</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/category/sub-category/rich-content/">Rich Content</a></li>
   
 
 
       </ul>
     </li>
+  
+
+
+      </ul>
+    </li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/markdown-sample/">Markdown Sample</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/shortcodes/">Shortcodes Sample</a></li>
   
 
 
@@ -139,20 +193,72 @@ if (!doNotTrack) {
       
       
         <div class="post-card">
-  <a href="/posts/en/20201103_mi_primer_post/" class="post-card-link">
+  <a href="/posts/markdown-sample/" class="post-card-link">
     <div class="card">
       <div class="card-head">
-        <img class="card-img-top" src='/images/posts/writing-posts/analytics.svg'/>
+        <img class="card-img-top" src='/posts/markdown-sample/hero.svg'/>
       </div>
       <div class="card-body">
-        <h5 class="card-title">Mi primer post</h5>
-        <p class="card-text post-summary">R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+        <h5 class="card-title">Markdown Samples</h5>
+        <p class="card-text post-summary">This is a sample post intended to test the followings:
+ A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering.   Markdown Syntax Rendering Headings The following HTML &lt;h1&gt;—&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level while &lt;h6&gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</p>
       </div>
       <div class="card-footer">
         <span class="float-left">June 8, 2020</span>
         <a
-        href="/posts/en/20201103_mi_primer_post/"
+        href="/posts/markdown-sample/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+      
+        <div class="post-card">
+  <a href="/posts/category/sub-category/rich-content/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/category/sub-category/rich-content/images/hero.svg'/>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Rich Content</h5>
+        <p class="card-text post-summary">This sample post tests the followings:
+ Category, sub-category nesting in the sidebar. Hero image and other images are in images folder inside this post directory. Different media rendering like image, tweet, YouTube video, Vimeo video etc.  Image Sample  Tweet Sample “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”
+— Jan Tschichold pic.twitter.com/gcv7SrhvJb
+&mdash; Graphic Design History (@DesignReviewed) January 17, 2019   YouTube Video Sample    Vimeo Video Sample   </p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">June 8, 2020</span>
+        <a
+        href="/posts/category/sub-category/rich-content/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+      
+        <div class="post-card">
+  <a href="/posts/shortcodes/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/assets/images/default-hero.jpg'/>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Shortcodes Samples</h5>
+        <p class="card-text post-summary">This is a sample post intended to test the followings:
+ Default hero image. Different shortcodes.  Alert The following alerts are available in this theme.
+This is sample alert with type=&quot;success&quot;.This is sample alert with type=&quot;danger&quot;.This is sample alert with type=&quot;warning&quot;.This is sample alert with type=&quot;info&quot;.This is sample alert with type=&quot;dark&quot;.This is sample alert with type=&quot;primary&quot;.This is sample alert with type=&quot;secondary&quot;.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">June 8, 2020</span>
+        <a
+        href="/posts/shortcodes/"
         class="float-right btn btn-outline-info btn-sm"
         >Read</a
         >
@@ -202,7 +308,6 @@ When you click the Knit button a document will be generated that includes both c
         
         <ul>
             
-            
               
               
                 
@@ -210,10 +315,6 @@ When you click the Knit button a document will be generated that includes both c
               <li class="nav-item">
                 <a class="smooth-scroll" href="#skills">Skills</a>
               </li>
-            
-            
-            
-            
             
         </ul>
         
