@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>404 Page not found</title>
+    <title>Tags</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -23,7 +23,8 @@
 <link rel="stylesheet" href="/assets/css/style.css"/>
 
     
-    <link rel="stylesheet" href="/assets/css/404.css">
+    <link rel="stylesheet" href="/assets/css/layouts/list.css">
+    <link rel="stylesheet" href="/assets/css/navigators/sidebar.css">
 
 
     
@@ -61,7 +62,7 @@ if (!doNotTrack) {
       <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" href="/es">
       <img src="/assets/images/main-logo.png">popiula&#39;s blog (en construcción)</a>
     <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
       <span class="navbar-toggler-icon"></span>
@@ -69,6 +70,26 @@ if (!doNotTrack) {
 
     <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
+      
+        
+
+  
+
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <img class="flag" src="https://www.countryflags.io/es/flat/16.png">
+      Spanish
+    </a>
+    <div class="dropdown-menu" aria-labelledby="languageSelector">
+      
+        <a class="dropdown-item nav-link languages-item" href="/tags">
+          <img class="flag" src="https://www.countryflags.io/gb/flat/24.png">
+          English
+        </a>
+      
+    </div>
+</li>
       
       </ul>
     </div>
@@ -81,19 +102,45 @@ if (!doNotTrack) {
 
 
       
-       
+      
+  
+  
+    
+  
 
-      
-      
-<div class="container">
-    <div class="notFound">
-        <img src="/assets/images/404.png" alt="">
-        <div class="message">
-            <h1>404</h1>
-            <h4>The page you are looking for is not there yet.</h4>
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <input type="text" value="" placeholder="Search" data-search="" id="search-box" />
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/es/posts" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+
+            </div>
+          </ul>
         </div>
+      </div>
     </div>
-</div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      
+      
+    </div>
+    <div class="paginator">
+      
+
+
+    </div>
+  </div>
+</section>
 
 
       
@@ -102,55 +149,20 @@ if (!doNotTrack) {
 
     
 
-  
 
 
 
 
-  
 
-
-
-
-  
-  
-    
-  
 
 
 <footer class="container-fluid text-center align-content-center footer pb-2">
   <div class="container pt-5">
     <div class="row text-left">
       <div class="col-md-4 col-sm-12">
-        <h5>Navigation</h5>
-        
-        <ul>
-            
-            
-              
-              
-                
-              
-              <li class="nav-item">
-                <a class="smooth-scroll" href="#skills">Skills</a>
-              </li>
-            
-            
-            
-            
-            
-        </ul>
+        <h5>Navegación</h5>
         
 
-      </div>
-      
-      <div class="col-md-4 col-sm-12">
-        <h5>Contact me:</h5>
-        <ul>
-          
-          <li><span>Email: </span> <span>r dot popiula at gmail dot com</span></li>
-          
-        </ul>
       </div>
       
       
@@ -167,7 +179,7 @@ if (!doNotTrack) {
       </div>
       <div class="col-md-4 text-center">© 2020 Copyright.</div>
       <div class="col-md-4 text-right">
-        <a id="hugo" href="https://gohugo.io/">Powered by
+        <a id="hugo" href="https://gohugo.io/">Funcionando con
         <img
           src="/assets/images/hugo-logo-wide.svg"
           alt="Hugo Logo"
@@ -188,6 +200,8 @@ if (!doNotTrack) {
 
 
     
-     
+    
+    <script src="/assets/js/list.js"></script>
+
   </body>
 </html>
