@@ -5,10 +5,6 @@
     <link>https://popiula.github.io/tags/</link>
     <description>Recent content in Tags on popiula&#39;s blog (en construcción)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://popiula.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://popiula.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
