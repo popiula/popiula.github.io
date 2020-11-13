@@ -3,72 +3,208 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://popiula.github.io/es/categories/</loc>
+    <loc>/es/posts/r/20201111_actualiza_r/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/categories/"
+                href="/posts/r/20201111_actualiza_r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/categories/"
+                href="/es/posts/r/20201111_actualiza_r/"
                 />
   </url>
   
   <url>
-    <loc>https://popiula.github.io/es/</loc>
+    <loc>/es/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/"
+                href="/es/"
                 />
   </url>
   
   <url>
-    <loc>https://popiula.github.io/es/posts/</loc>
+    <loc>/es/posts/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/"
+                href="/es/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://popiula.github.io/es/tags/</loc>
+    <loc>/es/posts/r/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/tags/"
+                href="/posts/r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/tags/"
+                href="/es/posts/r/"
                 />
   </url>
   
   <url>
-    <loc>https://popiula.github.io/es/posts/category/</loc>
+    <loc>/es/posts/introduction/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/category/"
+                href="/posts/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/category/"
+                href="/es/posts/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/markdown-sample/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/markdown-sample/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/markdown-sample/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/category/sub-category/rich-content/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/category/sub-category/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/category/sub-category/rich-content/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/shortcodes/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/shortcodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/category/sub-category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/category/sub-category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/category/sub-category/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/category/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/github/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/github/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/python/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/python/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
                 />
   </url>
   
