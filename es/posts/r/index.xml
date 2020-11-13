@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on popiula&#39;s blog (en construcción)</title>
-    <link>/es/posts/r/</link>
+    <link>https://popiula.github.io/es/posts/r/</link>
     <description>Recent content in R on popiula&#39;s blog (en construcción)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/es/posts/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://popiula.github.io/es/posts/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Actualiza R con el paquete installr</title>
-      <link>/es/posts/r/20201111_actualiza_r/</link>
+      <link>https://popiula.github.io/es/posts/r/20201111_actualiza_r/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/es/posts/r/20201111_actualiza_r/</guid>
+      <guid>https://popiula.github.io/es/posts/r/20201111_actualiza_r/</guid>
       <description>Abre RGui (yo lo abro desde el buscador de aplicaciones de Windows)
 Carga (o instala, si no lo tienes) “installr”
 # carga y/o instala el paquete installrif(!require(installr)) {install.packages(&amp;quot;installr&amp;quot;); require(installr)} # con esto se lanza la actualización de la instalación de R. # Buscará la versión más nueva y si no coincide con la tuya # te dará la opción de actualizar.updateR() </description>
