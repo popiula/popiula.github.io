@@ -1,35 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>popiula&#39;s blog (en construcción)</title>
-    <link>https://popiula.github.io/</link>
-    <description>Recent content on popiula&#39;s blog (en construcción)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://popiula.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Use emojis in your commit messages</title>
-      <link>https://popiula.github.io/posts/github/20201113_emojis/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://popiula.github.io/posts/github/20201113_emojis/</guid>
-      <description>…or anywhere on github really.
-
-Here there is a complete list of github markdown emoji markup.
-
-Photo by Domingo Alvarez E on Unsplash</description>
-    </item>
-    
-    <item>
-      <title>Update R with installr package</title>
-      <link>https://popiula.github.io/posts/r/20201111_actualiza_r/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://popiula.github.io/posts/r/20201111_actualiza_r/</guid>
-      <description>Open RGui (I do it from the apps search on Windows)
-Load installr (or install it, if you don’t have it installed)
-# load or install installr packageif(!require(installr)) {install.packages(&amp;quot;installr&amp;quot;); require(installr)} # with that you launch the update of R installation. # It will look for the most updated version and if does not match your # it will give you the option to update your installation.updateR()</description>
-    </item>
-    
-  </channel>
-</rss>
