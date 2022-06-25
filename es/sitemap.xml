@@ -1,98 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://popiula.github.io/es/posts/github/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <loc>https://popiula.github.io/es/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/github/"
+                href="https://popiula.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/github/"
+                href="https://popiula.github.io/es/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/github/20201113_emojis/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/github/20201113_emojis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/github/20201113_emojis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/r/20201111_actualiza_r/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/r/20201111_actualiza_r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/r/20201111_actualiza_r/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/r/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/r/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://popiula.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -104,23 +26,31 @@
                 hreflang="es"
                 href="https://popiula.github.io/es/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/python/</loc>
+  </url><url>
+    <loc>https://popiula.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/python/"
+                href="https://popiula.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/python/"
+                href="https://popiula.github.io/es/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://popiula.github.io/es/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://popiula.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://popiula.github.io/es/series/"
+                />
+  </url><url>
     <loc>https://popiula.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,19 +63,4 @@
                 href="https://popiula.github.io/es/tags/"
                 />
   </url>
-  
-  <url>
-    <loc>https://popiula.github.io/es/posts/category/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/category/"
-                />
-  </url>
-  
 </urlset>

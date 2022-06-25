@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>popiula&#39;s blog (en construcción)</title>
+    <title>Popiula</title>
     <link>https://popiula.github.io/es/</link>
-    <description>Recent content on popiula&#39;s blog (en construcción)</description>
+    <description>Recent content on Popiula</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://popiula.github.io/es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Utiliza emoticonos en tus commits</title>
-      <link>https://popiula.github.io/es/posts/github/20201113_emojis/</link>
-      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://popiula.github.io/es/posts/github/20201113_emojis/</guid>
-      <description>…o en cualquier sitio dentro de github.
-
-Aquí hay una lista completa.
-
-Foto de Domingo Alvarez E en Unsplash</description>
-    </item>
-    
-    <item>
-      <title>Actualiza R con el paquete installr</title>
-      <link>https://popiula.github.io/es/posts/r/20201111_actualiza_r/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://popiula.github.io/es/posts/r/20201111_actualiza_r/</guid>
-      <description>Abre RGui (yo lo abro desde el buscador de aplicaciones de Windows)
-Carga (o instala, si no lo tienes) “installr”
-# carga y/o instala el paquete installrif(!require(installr)) {install.packages(&amp;quot;installr&amp;quot;); require(installr)} # con esto se lanza la actualización de la instalación de R. # Buscará la versión más nueva y si no coincide con la tuya # te dará la opción de actualizar.updateR() </description>
-    </item>
-    
+    <copyright>Copyright © 2022, Popiula; all rights reserved.</copyright><atom:link href="https://popiula.github.io/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

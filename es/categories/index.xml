@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on popiula&#39;s blog (en construcción)</title>
+    <title>Categories on Popiula</title>
     <link>https://popiula.github.io/es/categories/</link>
-    <description>Recent content in Categories on popiula&#39;s blog (en construcción)</description>
+    <description>Recent content in Categories on Popiula</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://popiula.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022, Popiula; all rights reserved.</copyright><atom:link href="https://popiula.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

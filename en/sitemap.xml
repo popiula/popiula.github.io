@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://popiula.github.io/posts/github/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/github/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/github/"
-                />
-  </url>
-  
   <url>
     <loc>https://popiula.github.io/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -30,70 +14,9 @@
                 hreflang="en"
                 href="https://popiula.github.io/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/github/20201113_emojis/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/github/20201113_emojis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/github/20201113_emojis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/r/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/r/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/r/20201111_actualiza_r/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://popiula.github.io/es/posts/r/20201111_actualiza_r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://popiula.github.io/posts/r/20201111_actualiza_r/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://popiula.github.io/categories/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -104,24 +27,31 @@
                 hreflang="en"
                 href="https://popiula.github.io/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/python/</loc>
+  </url><url>
+    <loc>https://popiula.github.io/tags/hugo/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/post/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/series/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/python/"
+                href="https://popiula.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/python/"
+                href="https://popiula.github.io/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://popiula.github.io/categories/syntax/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://popiula.github.io/tags/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -132,20 +62,112 @@
                 hreflang="en"
                 href="https://popiula.github.io/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://popiula.github.io/posts/category/</loc>
+  </url><url>
+    <loc>https://popiula.github.io/series/themes-guide/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2022/03/24/using-hugo-page-bundles/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2021/08/20/using-notices/</loc>
+    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2020/12/01/hello-r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/destacado/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/featured/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/11/guia-de-sintaxe-markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/series/guia-de-temas/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/11/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/categories/sintaxe/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/temas/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/categories/temas/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/10/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/09/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/08/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/2019/03/05/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://popiula.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://popiula.github.io/es/posts/category/"
+                href="https://popiula.github.io/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://popiula.github.io/posts/category/"
+                href="https://popiula.github.io/about/"
                 />
+  </url><url>
+    <loc>https://popiula.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://popiula.github.io/search/</loc>
   </url>
-  
 </urlset>

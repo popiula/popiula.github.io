@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Popiula</title>
+    <link>https://popiula.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Popiula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2022, Popiula; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://popiula.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Hugo page bundles</title>
+      <link>https://popiula.github.io/2022/03/24/using-hugo-page-bundles/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://popiula.github.io/2022/03/24/using-hugo-page-bundles/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
